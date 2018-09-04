@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536026665 source:c:\users\sakib hossain\desktop\code ahjaira\monsoon challenge_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<string>
+	<cstring>
+	<sstream>
+
